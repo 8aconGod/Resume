@@ -27,7 +27,7 @@ ___
     * created a website to develop frontend and backend development skills
     * Learning project management, password encryption and server management
 
-- __Project Links__ - [project](https://github.com/8aconGod/Resume)
+- __Project Links__ - [Projects](https://github.com/8aconGod/Resume)
 
 ### __Education__
 #### Oregon State University
@@ -36,6 +36,7 @@ _Bachelor's Degree in Computer Science_ - _June 2024_
 - Javascript, HTML, Python, C++
 - Vulnerability assessment tools (Nikto, Wireshark)
 - Knowledge of programming and scripting for development of security tools and industry frameworks
+- Bug Bounty and Capture the Flag events
 
 
 ### __Certifications__
